@@ -1,0 +1,3 @@
+User-agent: *
+Dillow: /
+Allow: /index.html
